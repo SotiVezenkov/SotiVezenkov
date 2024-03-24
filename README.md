@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soti, but you can call me Larry, nice to meet you! 🦹</h1>
-<h3 align="center">Young passionate fella ready to conquer and leave his mark in the world of AI 🤖.</h3>
+<h3 align="center">Passionate young fella ready to conquer and leave his mark in the world of AI 🤖.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
