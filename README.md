@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soti, nice to meet you! 🦹</h1>
+<h1 align="center">Hi, name's Soti, nice to meet you! 🦹</h1>
 <h3 align="center">Passionate young fella ready to conquer and leave his mark in the world of AI 🤖.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and AI**
@@ -9,8 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soti vezenkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soti vezenkov" height="30" width="40" /></a>
-<a href="https://fb.com/soti vezenkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soti vezenkov" height="30" width="40" /></a>
 <a href="https://instagram.com/sotko.skrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sotko.skrr" height="30" width="40" /></a>
 </p>
 
