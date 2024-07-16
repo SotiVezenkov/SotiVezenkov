@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **svezenkov02@gmail.com**
 
-- ⚡ Fun fact **I really could enjoy a good book and coffee 📘☕**
+- ⚡ Fun fact **I really could enjoy a good book and coffee at any given moment, and i can't stress enough on a-n-y g-i-v-e-n m-o-m-e-n-t 📘☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
