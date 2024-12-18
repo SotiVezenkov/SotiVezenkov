@@ -1,7 +1,7 @@
 <h1 align="center">Hi, name's Soti, nice to meet you! 🦹</h1>
 <h3 align="center">Passionate young fella ready to conquer and leave his mark in the technical world 🤖.</h3>
 
-- 🌱 I’m currently learning **Flutter developement**
+- 🌱 I’m currently learning **DevOps engineering**
 
 - 📫 How to reach me **svezenkov02@gmail.com**
 
