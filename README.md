@@ -1,15 +1,15 @@
 <h1 align="center">Hello there, Soti's here</h1>
-<h3 align="center">I'm either building or breaking something.</h3>
+<h3 align="left">I'm either building or breaking something.</h3>
 
-<p align="center">
+<p align="left">
 Currently into DevOps — messing with Go, Python, Terraform, Docker and cloud stuff until it either works beautifully or teaches me something the hard way.
 </p>
 
-<p align="center">
+<p align="left">
 I like to automate, build reliable software, and architecture that doesn’t collapse when someone sneezes.
 </p>
 
-<p align="center">
+<p align="left">
 If you need me professionally: svezenkov02@gmail.com |
 <a href="https://linkedin.com/in/soti-vezenkov-56560127b" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Soti Vezenkov" height="30" width="40" /> </a>
 </p>
