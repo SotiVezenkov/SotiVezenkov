@@ -14,8 +14,8 @@ If you need me professionally: svezenkov02@gmail.com |
 <a href="https://linkedin.com/in/soti-vezenkov-56560127b" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Soti Vezenkov" height="30" width="40" /> </a>
 </p>
 
-<h3 align="left">and if you need me casually:</h3>
 <p align="left">
+And if you need me casually: 
 <a href="https://instagram.com/sotko.skrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sotko.skrr" height="30" width="40" /></a>
 </p>
 
